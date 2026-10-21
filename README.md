@@ -6,6 +6,8 @@ already wired together, so you skip weeks of boilerplate and ship your product.
 
 **Free & open-source (MIT).** If it saves you time, a ⭐ means a lot.
 
+> 📬 **Building this in public** — [get the next drop + Pro early access →](https://surfings-newsletter.beehiiv.com/subscribe)
+
 ![screenshot](./public/screenshots/2-chat.png)
 
 ---
